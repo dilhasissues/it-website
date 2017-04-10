@@ -8,3 +8,28 @@ website for our IT class
   Our website consists of information about our class, what our goals are, and projects we have done. It gives others an insight to life in our classroom and our true intentions. The community needs to learn about the IT industry and the many opportunities it could offer to students.
   
   The process was long and difficult, writing code at 3 A.M. and such.
+  
+  The project was quite drawn on, and this is what it mainly consisted of:
+  
+  Homepage-
+We put a slideshow with pictures of the class doing various projects.
+
+Classroom page-
+Inserted videos and pictures of the class taking apart a computer, seeing a 3d printer and visiting the CO.
+
+ Projects page.
+Added links to various students’ works on the design process like t shirt designs and the design process itself.
+
+Education partners page-
+Leads to dev catalyst page and competition guidelines.
+
+Career Info page-
+Leads to findapathway.com and contains info on the tech field careers.
+
+Courses page-
+Contains syllabi about the IT, Web design and website development courses for students to access. 
+
+
+***scaling is riddled with bugs, project was intended for pc first, not mobile first***
+
+  
